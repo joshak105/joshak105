@@ -12,13 +12,13 @@ Seeking a 2027 industrial placement in software engineering.
 
 - **[gravity-simulator](https://github.com/joshak105/gravity-simulator)** — physics simulation written entirely in NASM x64 assembly
 
+- **[Football-Stats-Tracker](https://github.com/joshak105/Football-Stats-Tracker)**- An app to visualise and seek football data
+
 - **[Transport-Booking-System](https://github.com/joshak105/Transport-Booking-System)** — multi-mode transport booking system
 
 - **[matching-pairs-game](https://github.com/joshak105/matching-card-game)** — card matching game in JavaScript, HTML and CSS
 
 - **[Maze-game](https://github.com/joshak105/Maze-game)** — maze solver adapted from Sokoban mechanics
-
-- **[Football-Stats-Tracker](https://github.com/joshak105/Football-Stats-Tracker)**- An app to visualise and seek football data
 
 [LinkedIn](www.linkedin.com/in/joshua-akhabhau-4114b82aa)
 
