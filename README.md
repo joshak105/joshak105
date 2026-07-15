@@ -14,7 +14,7 @@ Seeking a 2027 industrial placement in software engineering.
 
 - **[Transport-Booking-System](https://github.com/joshak105/Transport-Booking-System)** — multi-mode transport booking system
 
-- **[matching-pairs-game](https://github.com/joshak105/matching-card-game)** — card matching game in JavaScript,HTML and CSS
+- **[matching-pairs-game](https://github.com/joshak105/matching-card-game)** — card matching game in JavaScript, HTML and CSS
 
 - **[Maze-game](https://github.com/joshak105/Maze-game)** — maze solver adapted from Sokoban mechanics
 
